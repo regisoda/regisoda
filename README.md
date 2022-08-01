@@ -5,8 +5,8 @@ I'm a software developer passionate for <b>#code</b>. As a senior software engin
 </p>
 
 # Certifications 🎖
-- [Microsoft Certified Azure Fundamentals](https://www.credly.com/badges/889c07ef-0076-4216-aac1-002d794f2635/public_url)
-- [Microsoft Certified Azure Developer Associate](https://www.credly.com/badges/6006bb96-d2de-407c-a09b-3d883d0f264a/public_url)
+- [Microsoft Certified Azure Fundamentals (AZ-900)](https://www.credly.com/badges/889c07ef-0076-4216-aac1-002d794f2635/public_url)
+- [Microsoft Certified Azure Developer Associate (AZ-204)](https://www.credly.com/badges/6006bb96-d2de-407c-a09b-3d883d0f264a/public_url)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/13972741/182257090-a5acd0a5-3d1f-4a9a-9123-5ef0913e0714.png" width="150" height="150"  />
