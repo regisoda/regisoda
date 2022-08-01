@@ -1,11 +1,12 @@
-# Hi, my name is Régis Oda 👋
+# Hi, my name is Régis Oda. 👋
 
 <p>
-I'm a software developer passionate for <b>#code</b>. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.
+I'm a software developer passionate for <b>#code</b>. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/13972741/148295663-6d7b8bf0-497f-490c-b84c-36b7c51e699c.png" width="100" height="100"  />
+<img src="https://user-images.githubusercontent.com/13972741/182257090-a5acd0a5-3d1f-4a9a-9123-5ef0913e0714.png" width="150" height="150"  />
+<img src="https://user-images.githubusercontent.com/13972741/182256823-d52dce31-1802-4ba9-8805-abd5c820fde8.png" width="150" height="150"  />
 </p>
 
 # Analytics ⚙️
@@ -76,4 +77,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/13972741/182257090-a5acd0a5-3d1f-4a9a-9123-5ef0913e0714.png)
+![microsoft-certified-azure-developer-associate](https://user-images.githubusercontent.com/13972741/182256823-d52dce31-1802-4ba9-8805-abd5c820fde8.png)
 -->
+
+
